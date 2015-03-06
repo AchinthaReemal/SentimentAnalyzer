@@ -1,0 +1,50 @@
+/home/achintha/Software/apache-uima-as-2.6.0/lib/xmlbeans.jar
+/home/achintha/Software/apache-uima-as-2.6.0/lib/uima-tools.jar
+/home/achintha/Software/apache-uima-as-2.6.0/lib/uimaj-bootstrap.jar
+
+
+This is a copy of all the qualified names of the jars in the project which might include jars which are not relevant for this project. Check against this list if you cannot get the project running with the jars that I have mentioned in the blog.
+
+
+/home/achintha/Software/apache-uima-as-2.6.0/lib/uimaj-as-jms.jar
+/home/achintha/Software/apache-uima-as-2.6.0/lib/uimaj-as-core.jar
+/home/achintha/Software/apache-uima-as-2.6.0/lib/uimaj-as-camel.jar
+/home/achintha/Software/apache-uima-as-2.6.0/lib/uimaj-as-activemq.jar
+/home/achintha/Software/apache-uima-as-2.6.0/lib/uima-examples.jar
+/home/achintha/Software/apache-uima-as-2.6.0/lib/uima-document-annotation.jar
+/home/achintha/Software/apache-uima-as-2.6.0/lib/uima-cpe.jar
+/home/achintha/Software/apache-uima-as-2.6.0/lib/uima-core.jar
+/home/achintha/Software/apache-uima-as-2.6.0/lib/uima-adapter-vinci.jar
+/home/achintha/Software/apache-uima-as-2.6.0/lib/uima-adapter-soap.jar
+/home/achintha/Software/apache-uima-as-2.6.0/lib/jVinci.jar
+UIMA_HOME
+/home/achintha/Software/Twitter4j/lib/twitter4j-stream-4.0.2.jar
+/home/achintha/Software/Twitter4j/lib/twitter4j-media-support-4.0.2.jar
+/home/achintha/Software/Twitter4j/lib/twitter4j-examples-4.0.2.jar
+/home/achintha/Software/Twitter4j/lib/twitter4j-core-4.0.2.jar
+/home/achintha/Software/Twitter4j/lib/twitter4j-async-4.0.2.jar
+/home/achintha/Software/Databridge Related Missing JARS/Commons Logging/commons-logging-1.2/commons-logging-1.2.jar
+/home/achintha/Software/Databridge Related Missing JARS/slf4j-1.5.10.wso2v1.jar
+/home/achintha/Software/Databridge Related Missing JARS/httpclient-4.2.3.jar
+/home/achintha/Software/Databridge Related Missing JARS/gson-2.3.1.jar
+/home/achintha/Software/Databridge Related Missing JARS/Commons Pool/org.apache.commons.pool.jar
+/home/achintha/Software/wso2cep-3.1.0/repository/components/plugins/org.wso2.carbon.databridge.agent.thrift_4.2.2.jar
+/home/achintha/Software/wso2cep-3.1.0/repository/components/plugins/org.wso2.carbon.databridge.commons_4.2.2.jar
+/home/achintha/Software/Log4j/org.apache.log4j-1.2.13.v200706111418.jar
+/home/achintha/Software/apache-opennlp-1.5.3/lib/opennlp-uima-1.5.3.jar
+/home/achintha/Software/apache-opennlp-1.5.3/lib/opennlp-tools-1.5.3.jar
+/home/achintha/Software/apache-opennlp-1.5.3/lib/opennlp-maxent-3.0.3.jar
+/home/achintha/Software/apache-opennlp-1.5.3/lib/jwnl-1.3.3.jar
+/home/achintha/Software/commons-io-2.4/commons-io-2.4.jar
+/home/achintha/Software/Data Publisher JARs/data-publisher/lib/slf4j_1.5.10.wso2v1.jar
+/home/achintha/Software/Data Publisher JARs/data-publisher/lib/org.wso2.carbon.logging_4.0.0.SNAPSHOT.jar
+/home/achintha/Software/Data Publisher JARs/data-publisher/lib/org.wso2.carbon.databridge.commons_4.0.0.SNAPSHOT.jar
+/home/achintha/Software/Data Publisher JARs/data-publisher/lib/org.wso2.carbon.databridge.commons.thrift_4.0.0.SNAPSHOT.jar
+/home/achintha/Software/Data Publisher JARs/data-publisher/lib/org.wso2.carbon.databridge.agent.thrift-4.0.0-SNAPSHOT.jar
+/home/achintha/Software/Data Publisher JARs/data-publisher/lib/libthrift_0.7.0.wso2v1.jar
+/home/achintha/Software/Data Publisher JARs/data-publisher/lib/commons-pool_1.5.6.wso2v1.jar
+/home/achintha/Software/Data Publisher JARs/data-publisher/lib/com.google.gson_2.1.0.jar
+/home/achintha/Software/apache-activemq-5.11-SNAPSHOT/activemq-all-5.11-SNAPSHOT.jar
+/home/achintha/Software/stanford-corenlp-full-2013-11-12/stanford-corenlp-3.3.0.jar
+/home/achintha/Software/stanford-corenlp-full-2013-11-12/stanford-corenlp-3.3.0-models.jar
+/home/achintha/Software/stanford-corenlp-full-2013-11-12/ejml-0.23.jar
