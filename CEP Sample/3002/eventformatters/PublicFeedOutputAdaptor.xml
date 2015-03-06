@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eventFormatter name="PublicFeedOutputAdaptor" statistics="enable"
+  trace="enable" xmlns="http://wso2.org/carbon/eventformatter">
+  <from streamName="WebSocketOut" version="1.0.0"/>
+  <mapping customMapping="disable" type="json"/>
+  <to eventAdaptorName="SentimentAnalysisOutputAdaptor" eventAdaptorType="websocket-local">
+    <property name="websocket.topic">webout</property>
+  </to>
+</eventFormatter>

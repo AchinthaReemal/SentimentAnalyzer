@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<executionPlan name="PublicTwitterFeedAnalyser" statistics="enable"
+  trace="enable" xmlns="http://wso2.org/carbon/eventprocessor">
+  <description/>
+  <siddhiConfiguration>
+    <property name="siddhi.enable.distributed.processing">false</property>
+    <property name="siddhi.persistence.snapshot.time.interval.minutes">0</property>
+  </siddhiConfiguration>
+  <importedStreams>
+    <stream as="PublicFeedIn" name="publicTwitterInputFeed" version="1.0.0"/>
+  </importedStreams>
+  <queryExpressions><![CDATA[from PublicFeedIn#transform.geo:geocode(location)
+	select latitude,longitude,location,level
+	insert into WebSocketOut]]></queryExpressions>
+  <exportedStreams>
+    <stream name="WebSocketOut" valueOf="WebSocketOut" version="1.0.0"/>
+  </exportedStreams>
+</executionPlan>
